@@ -22,7 +22,7 @@ jpeg, gif, png, xbm, bmp
 developers should use lossless because its higher quality with lower size.
 
 ## File Formats
-* Explain the silarities and differeimnces between jpg, gif and png files. 
+* Explain the similarities and differeimnces between jpg, gif and png files. 
 
 they all represent an imag or set of images.
 
@@ -40,3 +40,5 @@ Upload screenshots for Operating System tasks to github
 
 # Conclusion
 Summarize what you learned here
+
+i learned about different image types and how to use free photoshop alternatives.
